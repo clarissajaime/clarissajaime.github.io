@@ -20,7 +20,7 @@ However, when I started the program, I realized that I had not nearly prepared e
 
 That front-end course combined with my marketing background led to a position as a Marketing Web Producer at 2U. A couple of years later, I was fortunate to get an opportunity to transition to the UX team as a UX Engineer. As a UX engineer, my interest in full-stack web development has reignited as I am experiencing first-hand, how valuable it can in solving problems, increasing efficiency and saving costs. 
 
-This year, I signed up for the Flatiron learn.co online bootcamp, and I can confidently say, that I am no longer struggling to grasp the concepts. My relationship with web development has been rocky and slow burning, but I've finally reached a place where I feel excited to dive deep and start building. 
+This year, I signed up for the Flatiron learn.co online bootcamp, and I can confidently say, that I am no longer struggling to grasp the concepts. My relationship with web development has been rocky, but I've finally reached a place where I feel excited to dive deep and start building. 
 
 
 
