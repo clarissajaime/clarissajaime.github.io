@@ -12,9 +12,7 @@ Then reality hit.
 
 I was working as a digital marketing consultant and my contract ended in November. No one was hiring then, as they were getting ready for the holiday season. Plus, it was my first time experiencing a northeast winter and I became depressed. Weeks turned to months and I struggled to find work as my confidence was shot and my depression lingered on. 
 
-During this period, bootcamp programs like General Assembly and Flatiron were sprouting up and I saw this as an opportunity to move into a lucrative career.
-
-I started studying programming by taking courses online and signed up for the General Assembly Web Development Bootcamp in the fall.
+During this period, bootcamp programs like General Assembly and Flatiron were sprouting up and I saw this as an opportunity to move into a lucrative career. I started studying programming by taking courses online and signed up for the General Assembly Web Development Bootcamp in the fall.
 
 However, when I started the program, I realized that I had not nearly prepared enough. I fell behind the very first week of the program. My brain wasn't grasping the concepts and I felt embarrassed and stupid. I came home crying every night for the next five weeks. Eventually, I made the decision to drop out of the bootcamp and switch to a part-time front-end course.
 
